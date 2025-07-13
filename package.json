@@ -1,0 +1,23 @@
+{
+  "name": "fauzi",
+  "version": "1.0.0",
+  "main": "dark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdhe-fs/fauzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdhe-fs/fauzi/issues"
+  },
+  "homepage": "https://github.com/ferdhe-fs/fauzi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "description": ""
+}
